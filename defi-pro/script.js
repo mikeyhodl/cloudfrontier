@@ -46,8 +46,7 @@ const playerInstance = jwplayer("player").setup({
         sources: [
           {
             file:
-//               "https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/oaa446jqf0418.m3u8?s=t2vM1vrfhf99zZf_mZlRyg&e=1653789669",
-              "https://v3.sportsonline.to/channels/hd/hd2.php".
+              "https://d2ryigvt11cgjj.cloudfront.net/hls/cbs/chunks.m3u8",
             label: "1080p",
             default: true
           },
