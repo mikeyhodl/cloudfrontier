@@ -1,1 +1,1 @@
-# cloudfrontier
+# Self Hosted CDN
