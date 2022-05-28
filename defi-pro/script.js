@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
         sources: [
           {
             file:
-              "https://imdb-video.media-imdb.com/vi2376319257/1434659607842-pgv4ql-1600202805262.mp4?Expires=1653818299&Signature=lgIsBIXwDaW1qSmdysRoHjxSbj6xVt0Kj2YZEUWkIwlFde9uRXlkbmZIqpGoQq7XNH62u6V96wq2hlTm0ut~guqITz7943WoQO-py1wrfh6-AKYa4OEqJN6LdKSVcs2fS~kL8FHJlGSFvV2jju50eMYkydsotxDGAdTRnyMWqC34~MDM5jUnq3MWANtfeWzdHmp4BaRBxP0njnNqh3XL57Amon1cNXUDNc31lBiBnWsbB2vetRNHpJaqxTr5UPn7NgksNp1vQG5hKPXS93slo3T~8u2zTjrxEhBRMDcNPeF0lLvgWQqwMxQHDUA5-dLHfxkWlAT9Pk2po50S0rmlBg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+              "https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/oaa446jqf0418.m3u8?s=t2vM1vrfhf99zZf_mZlRyg&e=1653789669",
             label: "1080p",
             default: true
           },
