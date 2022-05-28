@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
         sources: [
           {
             file:
-              "https://d2ryigvt11cgjj.cloudfront.net/hls/cbs/chunks.m3u8",
+              "",
             label: "1080p",
             default: true
           },
