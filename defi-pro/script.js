@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
       {
         title: "Pets United",
         description: "Now Playing",
-        image: "https://res.cloudinary.com/weknow-creators/image/upload/v1653727178/SagjlE_dtip3s.jpg",
+        image: "",
         sources: [
           {
             file:
-              "",
+              "https://res.cloudinary.com/weknow-creators/video/upload/v1653770484/trailers/1434659607842-pgv4ql-1653399486950_ydflhd.mp4",
             label: "1080p",
             default: true
           },
