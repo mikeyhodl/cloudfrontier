@@ -21,16 +21,6 @@ const playerInstance = jwplayer("player").setup({
         " "
     },
   
-    // advertising: {
-    //   client: "vast",
-    //   schedule: {
-    //     myAds: {
-    //       offset: "pre",
-    //       tag: "https://syndication.exdynsrv.com/splash.php?idzone=4648050"
-    //     }
-    //   }
-    // },
-  
     captions: {
       color: "#FFF",
       fontSize: 14,
