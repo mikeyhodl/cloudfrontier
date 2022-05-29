@@ -1,7 +1,7 @@
 const playerInstance = jwplayer("player").setup({
     controls: true,
-    sharing: false,
-    displaytitle: false,
+    sharing: true,
+    displaytitle: true,
     displaydescription: true,
     fullscreen: "true",
     primary: "html5",
