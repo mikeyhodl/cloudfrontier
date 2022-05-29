@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
   
     playlist: [
       {
-        title: "Pets United",
+        title: " ",
         description: " ",
         image: "",
         sources: [
