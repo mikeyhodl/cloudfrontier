@@ -30,7 +30,7 @@ const playerInstance = jwplayer("player").setup({
   
     playlist: [
       {
-        title: "Trailers",
+        title: "",
         description: " ",
         image: "",
         sources: [
