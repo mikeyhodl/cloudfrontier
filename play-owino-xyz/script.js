@@ -202,7 +202,7 @@ new Vue({
           //   favorited: true
           // },
           {
-            name: "Episode 792",
+            name: "Episode 793",
             artist: "CLUBLIFE by Tiesto",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1654955825/club%20life/e3df5f23804d4ff10c0cc64c2b34222c.mp3_plhblh.mp3",
