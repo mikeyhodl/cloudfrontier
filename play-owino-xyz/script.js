@@ -193,19 +193,19 @@ new Vue({
             url: "http://www.communitynetradio.org/christianliferadio",
             favorited: true
           },
-          // {
-          //   name: "Piga Mdomo",
-          //   artist: "Suzziah",
-          //   cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651149491/images/artworks-000225157901-vcd960-t500x500_q2uiiu.jpg",
-          //   source: "https://res.cloudinary.com/weknow-creators/video/upload/v1651149358/aob/Suzziah-Piga-Mdomo_mmtska.mp3",
-          //   url: "https://mikeowino.live/",
-          //   favorited: true
-          // },
+          {
+            name: "Piga Mdomo",
+            artist: "Suzziah",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651149491/images/artworks-000225157901-vcd960-t500x500_q2uiiu.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1651149358/aob/Suzziah-Piga-Mdomo_mmtska.mp3",
+            url: "https://mikeowino.live/",
+            favorited: true
+          },
           {
             name: "Episode 793",
             artist: "CLUBLIFE by Tiesto",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
-            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1654955825/club%20life/e3df5f23804d4ff10c0cc64c2b34222c.mp3_plhblh.mp3",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1655896309/club%20life/54bd330deb635bafdbbab52cb27e2971.mp3_lek4d5.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
           }
