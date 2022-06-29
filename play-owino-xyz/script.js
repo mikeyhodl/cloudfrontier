@@ -205,7 +205,7 @@ new Vue({
             name: "Episode 793",
             artist: "CLUBLIFE by Tiesto",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
-            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1655896309/club%20life/54bd330deb635bafdbbab52cb27e2971.mp3_lek4d5.mp3",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656502775/club%20life/f68fe6c5021d491f654cdd46773abd3e.mp3_mjbcs3.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
           }
