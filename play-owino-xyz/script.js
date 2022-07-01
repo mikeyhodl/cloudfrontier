@@ -93,7 +93,7 @@ new Vue({
             name: "Sensual World",
             artist: "181.fm",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
-            source: "https://listen.181fm.com/181-sensual_128k.mp3?noPreRoll=true",
+            source: "https://listen.181fm.com/181-sensual_128k.mp3",
             url: "https://181.fm",
             favorited: true
           },
