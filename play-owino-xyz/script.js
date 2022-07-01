@@ -130,6 +130,14 @@ new Vue({
             favorited: true
           },
           {
+            name: "The Box (Urban)",
+            artist: "181.fm",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
+            source: "https://listen.181fm.com/181-thebox_128k.mp3",
+            url: "http://www.181.fm",
+            favorited: true
+          },
+          {
             name: "BBC Radio 1Xtra",
             artist: "BBC",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645790337/c300_td69ut.png",
