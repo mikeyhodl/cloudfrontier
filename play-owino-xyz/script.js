@@ -234,10 +234,18 @@ new Vue({
             favorited: true
           },
           {
-            name: "Episode 793",
+            name: "Episode 794",
             artist: "CLUBLIFE by Tiesto",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656502775/club%20life/f68fe6c5021d491f654cdd46773abd3e.mp3_mjbcs3.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: true
+          }
+          {
+            name: "Episode 795",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656700410/club%20life/cbc3c65c0f5152058ca14116d780044b.mp3_bhulep.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
           }
