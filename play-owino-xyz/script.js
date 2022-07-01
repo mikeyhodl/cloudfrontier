@@ -106,6 +106,14 @@ new Vue({
             favorited: true
           },
           {
+            name: "Party 181",
+            artist: "181.fm",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
+            source: "https://listen.181fm.com/181-party_128k.mp3",
+            url: "http://www.181.fm",
+            favorited: true
+          },
+          {
             name: "Hot 108 Jamz",
             artist: "Hot 108",
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645197813/logod_jggikb.png",
