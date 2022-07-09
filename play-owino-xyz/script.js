@@ -248,6 +248,14 @@ new Vue({
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656700410/club%20life/cbc3c65c0f5152058ca14116d780044b.mp3_bhulep.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
+          },
+          {
+            name: "Episode 796",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1657369297/club%20life/a1f701f5a77489e09a9cec61c2c8ed65.mp3_sh3ahk.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: true
           }
         ],
         currentTrack: null,
