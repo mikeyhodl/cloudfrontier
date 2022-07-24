@@ -225,14 +225,14 @@ new Vue({
             url: "http://www.communitynetradio.org/christianliferadio",
             favorited: true
           },
-          {
-            name: "Piga Mdomo",
-            artist: "Suzziah",
-            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651149491/images/artworks-000225157901-vcd960-t500x500_q2uiiu.jpg",
-            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1651149358/aob/Suzziah-Piga-Mdomo_mmtska.mp3",
-            url: "https://mikeowino.live/",
-            favorited: true
-          },
+          // {
+          //   name: "Piga Mdomo",
+          //   artist: "Suzziah",
+          //   cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651149491/images/artworks-000225157901-vcd960-t500x500_q2uiiu.jpg",
+          //   source: "https://res.cloudinary.com/weknow-creators/video/upload/v1651149358/aob/Suzziah-Piga-Mdomo_mmtska.mp3",
+          //   url: "https://mikeowino.live/",
+          //   favorited: true
+          // },
           {
             name: "Episode 794",
             artist: "CLUBLIFE by Tiesto",
