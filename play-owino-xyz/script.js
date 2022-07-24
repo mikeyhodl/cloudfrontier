@@ -264,6 +264,14 @@ new Vue({
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1657921323/club%20life/2452376a9ca544f0d56051ac37f67a96.mp3_xpv2lv.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
+          },
+          {
+            name: "Episode 798",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1658685665/club%20life/d5fbee48d5faee23e7b1cc9e76996734.mp3_llytad.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: true
           }
         ],
         currentTrack: null,
