@@ -272,6 +272,14 @@ new Vue({
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1658685665/club%20life/d5fbee48d5faee23e7b1cc9e76996734.mp3_llytad.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
+          },
+          {
+            name: "Episode 799",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1659347177/club%20life/ca9668a092571a638e07b2ed9f6275b7.mp3_yes2gf.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: true
           }
         ],
         currentTrack: null,
