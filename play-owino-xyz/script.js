@@ -15,7 +15,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645186169/yadra2zdwceh_res4qw.png",
             source: "https://streams.cbnradio.com/gospel-128K?app=tunein",
             url: "https://www1.cbn.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Premier Gospel",
@@ -23,7 +23,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1648022007/logod_szisi6.jpg",
             source: "https://audio-edge-hy4wy.blr.d.radiomast.io/bc0b65c9-472b-48b7-b9fc-3b3000ca5ac3",
             url: "https://www.premiergospel.org.uk/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Premier Praise",
@@ -31,7 +31,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1648021703/c300_ndjpk6.png",
             source: "https://audio-edge-hy4wy.blr.d.radiomast.io/4f0fe096-7e2a-4bf0-957f-6c46a866d9ea",
             url: "https://www.premierpraise.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Energy 98",
@@ -39,7 +39,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645186615/c300_c2xkv9.png",
             source: "https://listen.181fm.com/181-energy98_128k.mp3",
             url: "https://181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "Gay FM",
@@ -47,7 +47,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1648019393/c300_c3vwwz.png",
             source: "https://icepool.silvacast.com/GAYFM.mp3",
             url: "http://www.gayfm.de/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Heart London",
@@ -55,7 +55,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1648019052/c300_aem1tj.png",
             source: "https://media-ice.musicradio.com/HeartLondonMP3",
             url: "https://www.heart.co.uk/london/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Ibiza Global Radio",
@@ -63,7 +63,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1646464398/c300_mrzscq.png",
             source: "https://listenssl.ibizaglobalradio.com:8024/stream/1/",
             url: "http://ibizaglobalradio.com/",
-            favorited: true
+            favorited: false
           },
           {
            name: "Virgin Radio UK",
@@ -71,7 +71,7 @@ new Vue({
           cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1648018399/c300_xaioks.png",
            source: "https://radio.virginradio.co.uk/stream",
            url: "https://virginradio.co.uk/",
-           favorited: true
+           favorited: false
            },
            {
             name: "Smooth Jazz 247",
@@ -79,7 +79,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651743185/live.fm/c300_pxifge.png",
             source: "https://ais-sa5.cdnstream1.com/b75154_128mp3",
             url: "https://www.smoothjazz247.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "The Breeze",
@@ -87,7 +87,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-breeze_128k.mp3",
             url: "https://181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "Sensual World",
@@ -95,7 +95,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-sensual_128k.mp3",
             url: "https://181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "Smooth Jazz",
@@ -103,7 +103,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1646467150/22e97e8c6220a6ca49dcdba429cc083f_mkdqfj.png",
             source: "https://pub0101.101.ru/stream/trust/mp3/128/31",
             url: "https://101.ru/radio/channel/31",
-            favorited: true
+            favorited: false
           },
           {
             name: "Smooth Jazz Florida",
@@ -111,7 +111,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187565/c300_ixeomv.png",
             source: "https://server.webnetradio.net/proxy/wsjf?mp=/1",
             url: "https://smoothjazzflorida.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Party 181",
@@ -119,7 +119,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-party_128k.mp3",
             url: "http://www.181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "UK top 40",
@@ -127,7 +127,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-uktop40_128k.mp3",
             url: "http://www.181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "Hot 108 Jamz",
@@ -135,7 +135,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645197813/logod_jggikb.png",
             source: "https://live.powerhitz.com/hot108?aw_0_req.gdpr=true",
             url: "https://www.hot108.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "HitsRadio - HipHop/RNB",
@@ -143,7 +143,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645788573/c300_nhphk0.png",
             source: "https://18103.live.streamtheworld.com/977_JAMZ.mp3",
             url: "https://hitsradio.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "The Beat",
@@ -151,7 +151,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-beat_128k.mp3",
             url: "http://www.181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "The Box (Urban)",
@@ -159,7 +159,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645187786/screen-0.jpg_t9edcx.jpg",
             source: "https://listen.181fm.com/181-thebox_128k.mp3",
             url: "http://www.181.fm",
-            favorited: true
+            favorited: false
           },
           {
             name: "BBC Radio 1Xtra",
@@ -167,7 +167,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645790337/c300_td69ut.png",
             source: "https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra?s=1645189970&e=1645204370&h=729b86c05057c8c99b3ed993666c5973",
             url: "https://www.bbc.co.uk/1xtra",
-            favorited: true
+            favorited: false
           },
           {
             name: "Capital XTRA",
@@ -175,7 +175,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645790465/c300_zo6mhh.png",
             source: "https://media-ice.musicradio.com/CapitalXTRALondon",
             url: "https://www.capitalxtra.com",
-            favorited: true
+            favorited: false
           },
           {
             name: "Capital FM UK",
@@ -183,7 +183,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645790822/c300_a4yn5r.png",
             source: "https://media-sov.musicradio.com/CapitalUKMP3",
             url: "https://www.capitalfm.com/digital",
-            favorited: true
+            favorited: false
           },
           {
             name: "1.FM - ReggaeTrade",
@@ -191,7 +191,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645787487/c300_qzla59.png",
             source: "https://strm112.1.fm/reggae_mobile_mp3",
             url: "http://www.1.fm/station/reggae",
-            favorited: true
+            favorited: false
           },
           {
             name: "NRJ REGGAE",
@@ -199,7 +199,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645787955/c300_kj2edz.png",
             source: "https://scdn.nrjaudio.fm/fr/30075/mp3_128.mp3?origine=radio.net&cdn_path=adswizz_lbs7&adws_out_a1&access_token=4936e191e1a54a8bb36b7a40dbe8d368",
             url: "http://www.nrj.fr/webradios",
-            favorited: true
+            favorited: false
           },
           {
             name: "Slam! Juize",
@@ -207,7 +207,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645210635/logod_qokkya.jpg",
             source: "https://22543.live.streamtheworld.com/WEB09_MP3_SC?dist=TUNEIN",
             url: "hhttps://www.slam.nl/",
-            favorited: true
+            favorited: false
           },
           {
             name: "100hitz - Hip Hop",
@@ -215,7 +215,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645211012/s111382d_rk9f7j.png",
             source: "https://pureplay.cdnstream1.com/6042_128.mp3",
             url: "http://www.100hitz.com/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Christian Life Radio",
@@ -223,7 +223,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645192362/s112984d_zuc7hu.png",
             source: "https://ice64.securenetsystems.net/CLR1MP3",
             url: "http://www.communitynetradio.org/christianliferadio",
-            favorited: true
+            favorited: false
           },
           // {
           //   name: "Piga Mdomo",
@@ -231,7 +231,7 @@ new Vue({
           //   cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1651149491/images/artworks-000225157901-vcd960-t500x500_q2uiiu.jpg",
           //   source: "https://res.cloudinary.com/weknow-creators/video/upload/v1651149358/aob/Suzziah-Piga-Mdomo_mmtska.mp3",
           //   url: "https://mikeowino.live/",
-          //   favorited: true
+          //   favorited: false
           // },
           {
             name: "Episode 794",
@@ -239,7 +239,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656502775/club%20life/f68fe6c5021d491f654cdd46773abd3e.mp3_mjbcs3.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Episode 795",
@@ -247,7 +247,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1656700410/club%20life/cbc3c65c0f5152058ca14116d780044b.mp3_bhulep.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Episode 796",
@@ -255,7 +255,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1657369297/club%20life/a1f701f5a77489e09a9cec61c2c8ed65.mp3_sh3ahk.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Episode 797",
@@ -263,7 +263,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1657921323/club%20life/2452376a9ca544f0d56051ac37f67a96.mp3_xpv2lv.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Episode 798",
@@ -271,7 +271,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1658685665/club%20life/d5fbee48d5faee23e7b1cc9e76996734.mp3_llytad.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
           {
             name: "Episode 799",
@@ -279,7 +279,7 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1659347177/club%20life/ca9668a092571a638e07b2ed9f6275b7.mp3_yes2gf.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
           },
             {
             name: "Episode 800",
@@ -287,7 +287,15 @@ new Vue({
             cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1659772924/club%20life/dc232e38dfb871f1efb16f36063111a2.mp3_xhh635.mp3",
             url: "http://tiesto.com/radio/",
-            favorited: true
+            favorited: false
+          },
+          {
+            name: "Episode 801",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1660410961/club%20life/ff07befa6ded988fa18425c9549c9528.mp3_o88fxm.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: false
           }
         ],
         currentTrack: null,
