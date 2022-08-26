@@ -270,7 +270,7 @@ body {
   .progress__current {
     height: inherit;
     width: 0%;
-    background-color: #a3b3ce;
+    background-color: #ffffff;
     border-radius: 10px;
   }
   
