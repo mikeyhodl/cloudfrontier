@@ -312,6 +312,14 @@ new Vue({
             source: "https://res.cloudinary.com/weknow-creators/video/upload/v1661543563/club%20life/756778a32604f451542376e34c62d4e9.mp3_jqoas4.mp3",
             url: "http://tiesto.com/radio/",
             favorited: true
+          },
+          {
+            name: "Episode 804",
+            artist: "CLUBLIFE by Tiesto",
+            cover: "https://res.cloudinary.com/weknow-creators/image/upload/v1645256784/logod_zta9kj.jpg",
+            source: "https://res.cloudinary.com/weknow-creators/video/upload/v1662191367/club%20life/6f2c1e0fb48c5a830dd601c94e60bc69.mp3_k1m3sj.mp3",
+            url: "http://tiesto.com/radio/",
+            favorited: true
           }
         ],
         currentTrack: null,
