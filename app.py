@@ -1,16 +1,3 @@
-# import http.server
-# import socketserver
-
-# PORT = 5500
-# host = "localhost"
-# url = f"http://{host}:{port}"
-
-# Handler = http.server.SimpleHTTPRequestHandler
-
-# with socketserver.TCPServer(("", PORT), Handler) as httpd:
-#     print("serving at port", PORT)
-#     httpd.serve_forever()
-
 import sys
 import time
 import threading
